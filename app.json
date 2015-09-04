@@ -11,7 +11,6 @@
   "logo": "https://small-sharp-tool.com/logo.svg",
   "success_url": "/welcome",
   "scripts": {
-    "postdeploy": "bundle exec rake bootstrap"
   },
   "env": {
     "SECRET_TOKEN": {
